@@ -1,6 +1,6 @@
 @echo off
 echo. Execution script and error log for *.sql scripts
-echo. Autor: Aldo Vilardy 30/02/2015
+echo. Author: Aldo Vilardy 30/02/2015
 echo. The error log will be regitered into the file info.txt
 if exist info.txt ( 
 erase info.txt)
